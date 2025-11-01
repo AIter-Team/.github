@@ -1,4 +1,4 @@
-## AITer Team
+## AIter Team
 
 <!--
 
