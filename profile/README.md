@@ -1,12 +1,31 @@
-## AIter Team
+<div align="center">
 
-<!--
+  <img src="https://github.com/AIter-Team/.github/blob/main/profile/AIter%20Banner%20Tr.png?raw=true" alt="AIter Logo" width="100%" />
 
-**Here are some ideas to get you started:**
+  # AIter
+  ### Advanced Integration of Technology, Education, and Research
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  [LinkedIn](linkedin.com/company/aiter-team)
+
+  ---
+</div>
+
+## 🚀 About Us
+
+We are a specialized engineering team focused on the cutting edge of **AI Engineering**. While we are currently a compact team, our vision is to evolve into a full-scale research and technology company.
+
+At **AIter**, we believe that building Agentic Systems is not just about writing prompts, it is about rigorous engineering. Our core mission is to solve the **stochastic nature of LLMs** through strict **Evaluation and Observability**. 
+
+We don't just ship code; we ship confidence. We treat AI development as an experimental science where **Evals** are the Quality Assurance of the Agentic era.
+
+## 🔭 Current Focus
+
+- **Agentic Design Patterns:** Moving from simple LLMs chains into Multi-Agent system.
+- **Evaluation Driven QA:** Utilizing eval principles to ensure our agents are deterministic and reliable.
+- **Contextual Memory:** Implementing personalized, stateful. contextual agent to enhance user experience.
+
+---
+
+<div align="center">
+  <sub>Copyright © 2025 AIter.</sub>
+</div>
