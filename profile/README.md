@@ -2,12 +2,10 @@
 
   <img src="https://github.com/AIter-Team/.github/blob/main/profile/AIter%20Banner%20Tr.png?raw=true" alt="AIter Logo" width="100%" />
 
-  # AIter
-  ### Advanced Integration of Technology, Education, and Research
+  # AIter - Advanced Integration of Technology, Education, and Research
 
   [LinkedIn](linkedin.com/company/aiter-team)
 
-  ---
 </div>
 
 ## 🚀 About Us
