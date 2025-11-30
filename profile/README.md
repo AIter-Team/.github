@@ -1,11 +1,9 @@
 <div align="center">
-
-  <img src="https://github.com/AIter-Team/.github/blob/main/profile/AIter%20Banner%20Tr.png?raw=true" alt="AIter Logo" width="100%" />
-
-  # AIter - Advanced Integration of Technology, Education, and Research
-
-  [LinkedIn](linkedin.com/company/aiter-team)
-
+  <a>
+    <picture>
+      <img alt="AIter Logo" src="https://raw.githubusercontent.com/AIter-Team/.github/main/profile/logo-dark.png" width="100%">
+    </picture>
+  </a>
 </div>
 
 ## 🚀 About Us
@@ -23,7 +21,7 @@ We don't just ship code; we ship confidence. We treat AI development as an exper
 - **Contextual Memory:** Implementing personalized, stateful. contextual agent to enhance user experience.
 
 ---
-
 <div align="center">
   <sub>Copyright © 2025 AIter.</sub>
 </div>
+
